@@ -1,1 +1,16 @@
-Stuff here about fav mountains to climb
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96337890625,
+          39.80009595634838
+        ]
+      }
+    }
+  ]
+}
